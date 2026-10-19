@@ -1276,7 +1276,7 @@
 	Align Bottom Left	Rata Kiri Bawah
 	Align Bottom Center	Rata Tengah Bawah
 	Align Bottom Right	Rata Kanan Bawah
-	{contributors} contributors · {commits} commits	ckontributosr} kontributor ·{ {commits}} commit
+	{contributors} contributors · {commits} commit {contributors} kontributor · {commits} commit
 	{cols}×{rows} Table	Tabel {cols}×{rows}
 	AaBbYyZz	AaBbYyZz
 	pt	pt
