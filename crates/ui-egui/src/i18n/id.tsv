@@ -235,7 +235,7 @@
 	Continuous	Berkesinambungan
 	Convert	Konversikan
 	Convert Text to Table	Konversikan Teks ke Tabel
-	Convert Text to Table…	Konversikan Teks ke Tabel...
+	Convert Text to Table…	Konversikan Teks ke Tabel…
 	Convert to Text	Konversikan ke Teks
 	Copy	Salin
 	Copy Formatting	Salin Pemformatan
@@ -251,13 +251,13 @@
 	Cross-reference	Acuan Silang
 	Current Position	Posisi Kini
 	Current style: {style}	Gaya kini: {style}
-	Custom Margins…	Margin Ubahan...
+	Custom Margins…	Margin Ubahan…
 	Custom Watermark	Tanda Air Ubahan
-	Custom Watermark…	Tanda Air Ubahan...
+	Custom Watermark…	Tanda Air Ubahan…
 	Customize Quick Access Toolbar	Sesuaikan Bilah Alat Akses Cepat
 	Cut	Potong
 	Dark Mode	Mode Gelap
-	Dashed	
+	Dashed
 	Data	Data
 	Date & Time	Tanggal & Waktu
 	Decrease Font Size	Kurangi Ukuran Fonta
@@ -299,7 +299,7 @@
 	Document Title	Judul Dokumen
 	Documents you open will show up here.	Dokumen yang Anda buka akan muncul di sini.
 	Dot-dash	Titik-garis
-	Dotted	
+	Dotted
 	Double	Ganda
 	Double Spacing	Spasi Ganda
 	Double Strikethrough	Coret Ganda
@@ -309,7 +309,7 @@
 	Draw	Gambar
 	Drawing Tools	Alat Menggambar
 	Drawing\nCanvas	Kanvas\nMenggambar
-	Drop Cap	
+	Drop Cap
 	Edit Footer	Sunting Kaki
 	Edit Header	Sunting Kepala
 	Edit Recipient List	Sunting Daftar Penerima
@@ -323,7 +323,7 @@
 	Emboss	Emboss
 	Encrypt with Password	Enkripsikan dengan Kata Sandi
 	English (United States)	Inggris (Amerika Serikat)
-	Engrave	
+	Engrave
 	Enter page number:	Masukkan nomor laman:
 	Envelopes	Amplop
 	Equation	Persamaan
@@ -386,7 +386,7 @@
 	Heading 1	Tajuk 1
 	Heading 2	Tajuk 2
 	Heading 3	Tajuk 3
-	Headings	Tajuk 
+	Headings	Tajuk
 	Heart	Jantung
 	Help	Bantuan
 	Hidden	Tersembunyi
@@ -406,8 +406,8 @@
 	Increase Font Size	Perbesar Ukuran Fonta
 	Increase Indent	Perbesar Indentasi
 	Indent	Indentasikan
-	Indentation	Indentasi 
-	Indents	Indentasi 
+	Indentation	Indentasi
+	Indents	Indentasi
 	Index	Indeks
 	Info	Info
 	Ink to\nMath	Tinta ke\nMatematika
@@ -476,7 +476,7 @@
 	Link	Tautan
 	Link to Previous	Tautan ke Sebelumnya
 	Links	Tautan
-	Location: {path}	Lokasi: {jalur}
+	Location: {path}	Lokasi: {path}
 	lowercase	huruf kecil
 	Macros	Makro
 	Mailings	Persuratan
@@ -537,7 +537,7 @@
 	Not available right now	Saat ini tidak tersedia.
 	Not saved	Tidak disimpan
 	Not saved yet	Belum disimpan
-	Nudge	
+	Nudge
 	Number of columns:	Cacah kolom:
 	Number of rows:	Cacah baris:
 	Numbering	Penomoran
@@ -618,7 +618,7 @@
 	Protect	Lindungi
 	Protect Document	Lindungi Dokumen
 	Quick Access Toolbar	Bilah Alat Akses Cepat
-	Quick Parts	
+	Quick Parts
 	Quick Tables	Tabel Cepat
 	Read Aloud	Baca Lantang
 	Read Mode	Mode Baca
@@ -667,7 +667,7 @@
 	Reviewing	Meninjau
 	Reviewing Pane	Panel Peninjau
 	Reviewing — edits become suggestions	Meninjau — suntingan menjadi saran
-	Rich Text Format (*.rtf)	
+	Rich Text Format (*.rtf)
 	Right	Kanan
 	Right Border	Batas Kanan
 	Right-to-Left Text Direction	Arah Teks Kanan-Kiri
@@ -678,7 +678,7 @@
 	Rows & Columns	Baris & Kolom
 	Ruler	Penggaris
 	Rules	Aturan
-	Résumé	
+	Résum
 	Save	Simpan
 	Save a copy in another format. Printing goes through a PDF you can print from any viewer.	Simpan salinannya dalam format lain. Pencetakan dilakukan melalui PDF yang dapat Anda cetak dari penampil mana pun.
 	Save As	Simpan Sebagai
@@ -710,11 +710,11 @@
 	Send Backward	Kirim Mundur
 	Sentence case.	Huruf kapital di awal kalimat.
 	Set as Default	Jadikan Baku
-	Set Caret	
+	Set Caret
 	Set Character Formatting	Atur Pemformatan Karakter
 	Set Numbering Value	Atur Nilai Penomoran
 	Set Paragraph Formatting	Atur Pemformatan Paragraf
-	Shading	
+	Shading
 	Shadow	Bayangan
 	Shape Fill	Isi Bentuk
 	Shape Format	Format Bentuk
@@ -772,7 +772,7 @@
 	Style	Gaya
 	Style based on:	Gaya berdasarkan:
 	Style Set	Set Gaya
-	Style: {style}	Gaya: {gaya}
+	Style: {style}	Gaya: {style}
 	Styles	Gaya
 	Styles Pane	Panel Gaya
 	Subscript	Subskrip
@@ -788,7 +788,7 @@
 	Table Column Width	Lebar Kolom Tabel
 	Table Design	Desain Tabel
 	Table Layout	Tata Letak Tabel
-	Table of Authorities	
+	Table of Authorities
 	Table of Contents	Daftar isi
 	Table of\nContents	Daftar Isi
 	Table Properties	Properti Tabel
@@ -807,7 +807,7 @@
 	Text Highlight Color	Warna Sorotan Teks
 	Text indent at:	Indentasi teks pada:
 	Text to display:	Teks yang akan ditampilkan:
-	Text Wrapping	
+	Text Wrapping
 	Text:	Teks:
 	Text\nBox	Kotak\nTeks
 	Text\nDirection	Arah\nTeks
@@ -870,9 +870,9 @@
 	Whole page	Seluruh halaman
 	Whole words	Seluruh kata
 	Wide	Lebar
-	Widow/Orphan Control	
-	Widow/Orphan control	
-	Wildcards (regex)	
+	Widow/Orphan Control
+	Widow/Orphan control
+	Wildcards (regex)
 	Window	Jendela
 	Word Count	Cacah Kata
 	Word document (*.docx)	Dokumen Word (*.docx)
@@ -912,9 +912,9 @@
 	Zotero: cancelled	Zotero: dibatalkan
 	Yes	Ya
 	No	Tidak
-	Move Past Citation	
-	Move Past\nCitation	
-	Next Sentence	Kalimat Selanjutnya 
+	Move Past Citation
+	Move Past\nCitation
+	Next Sentence	Kalimat Selanjutnya
 	Previous Sentence	Kalimat Sebelumnya
 	Next sentence	Kalimat selanjutnya
 	Previous sentence	Kalimat sebelumnya
@@ -961,7 +961,7 @@
 	Structures	Struktur
 	Tools	Peralatan
 	Type in Equation	Ketik Persamaan
-	Inline	
+	Inline
 	Number	Nomor
 	Close Equation	Tutup Persamaan
 	Insert New Equation	Masukkan Persamaan Baru
@@ -1021,7 +1021,7 @@
 	Fill color:	Warna isi:
 	{count} items highlighted	{count} item disorot
 	{n} pt	{n} pt
-	Not {name}	Bukan {nama}
+	Not {name}	Bukan {name}
 	Level {n}	Tingkat {n}
 	Body Text	Teks Isi
 	{n} lines	{n} baris
@@ -1032,7 +1032,7 @@
 	Don't add space between paragraphs of the same style	Jangan menambahkan spasi di antara paragraf dengan gaya yang sama.
 	Don't hyphenate	Jangan gunakan tanda hubung.
 	Double strikethrough	Coret ganda
-	Drop cap	
+	Drop cap
 	First line	Baris pertama
 	Font color	Warna fonta
 	Highlight	Sorot
@@ -1051,8 +1051,8 @@
 	E-mail Messages	Pesan Surel
 	Directory	Direktori
 	Normal Word Document	Dokumen Word Normal
-	If…Then…Else…	
-	If…Then…Else	
+	If…Then…Else…
+	If…Then…Else
 	Merge Record #	Catatan Penggabungan #
 	Skip Record If…	Lewati Rekaman Jika…
 	Skip Record If	Lewati Rekaman Jika
@@ -1085,7 +1085,7 @@
 	Find:	Menemukan:
 	New Entry	Pendatang Baru
 	Recipient List	Daftar Penerima
-	Recipients: {count}	Penerima: {jumlah}
+	Recipients: {count}	Penerima: {count}
 	Remove field	Hapus bidang
 	Remove recipient	Hapus penerima
 	Select recipients first to choose from their fields.	Pilih penerima terlebih dahulu untuk memilih dari kolom mereka.
@@ -1136,7 +1136,7 @@
 	(All)	(Semua)
 	(none)	(nihil)
 	(normal text)	(teks normal)
-	1/4 Em Space	
+	1/4 Em Space
 	A mail merge field	Kolom surat massal
 	A numbered sequence (figures, tables…)	Urutan bernomor (gambar, tabel, dll.)
 	A table of contents	Daftar isi
@@ -1152,10 +1152,10 @@
 	Double Closing Quote	Kutip Tutup Ganda
 	Double Opening Quote	Kutip Buka Ganda
 	Ellipsis	Elipsis
-	Em Dash	
-	En Dash	
-	Em Space	
-	En Space	
+	Em Dash
+	En Dash
+	Em Space
+	En Space
 	Equal column width	Lebar kolom yang sama
 	Field Codes	Kode Bidang
 	Field code:	Kode bidang:
@@ -1167,12 +1167,12 @@
 	Format:	Format:
 	Hide Codes	Sembunyikan Kode
 	Index and Tables	Indeks dan Tabel
-	Line between	
+	Line between
 	Links and References	Tautan dan Referensi
 	Mail Merge	Surat Massal
 	More Columns…	Kolom Lainnya…
 	More Symbols…	Simbol Lainnya…
-	No-Width Non Break	
+	No-Width Non Break
 	No-Width Optional Break	Jeda Opsional Tanpa Lebar
 	Paragraph Mark	Tanda Paragraf
 	Pick a field from the list	Pilih bidang dari daftar
@@ -1240,7 +1240,7 @@
 	Color: {color}	Warna: {color}
 	Space before: {pt} pt	Spasi sebelum: {pt} pt
 	Space after: {pt} pt	Spasi setelah: {pt} pt
-	Based on: {style}	Berdasarkan: {gaya}
+	Based on: {style}	Berdasarkan: {style}
 	Paragraph style	Gaya paragraf
 	Character style	Gaya karakter
 	Linked style (paragraph and character)	Gaya tertaut (paragraf dan karakter)
@@ -1276,7 +1276,7 @@
 	Align Bottom Left	Rata Kiri Bawah
 	Align Bottom Center	Rata Tengah Bawah
 	Align Bottom Right	Rata Kanan Bawah
-	{contributors} contributors · {commits} commits	{kontributor} kontributor · {commits} commit
+	{contributors} contributors · {commits} commits	ckontributosr} kontributor ·{ {commits}} commit
 	{cols}×{rows} Table	Tabel {cols}×{rows}
 	AaBbYyZz	AaBbYyZz
 	pt	pt
@@ -1293,9 +1293,9 @@
 	Version	Versi
 	% of all commits	% dari semua commit
 	Lines +/−	Garis +/−
-	Craft	
+	Craft
 	Studio	Studio
-	Atelier	
+	Atelier
 	Darkroom	Kamar gelap
 	Gallery	Galeri
 	Sketchbook	Buku sketsa
